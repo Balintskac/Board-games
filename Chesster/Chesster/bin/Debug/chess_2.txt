@@ -1,0 +1,2 @@
+Chesster.Pawn,W,6,3,6,7,Chesster.Pawn
+Chesster.Pawn,B,1,4,6,7,Chesster.Pawn

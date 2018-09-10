@@ -1,0 +1,9 @@
+Chesster.Pawn,W,6,4,4,4,-
+Chesster.Pawn,B,1,3,3,3,-
+Chesster.Pawn,W,4,4,3,3,Chesster.Pawn
+Chesster.Pawn,B,1,2,3,2,-
+Chesster.Queen,W,7,4,1,4,Chesster.Pawn
+Chesster.King,B,0,3,1,3,-
+Chesster.Queen,W,1,4,0,5,Chesster.Bishop
+Chesster.Pawn,W,6,5,4,5,-
+Chesster.Pawn,B,3,2,6,7,Chesster.Pawn

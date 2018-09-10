@@ -1,0 +1,17 @@
+Chesster.Pawn,W,6,5,6,7,Chesster.Pawn
+Chesster.Pawn,B,1,4,6,7,Chesster.Pawn
+Chesster.Queen,W,7,4,6,7,Chesster.Pawn
+Chesster.Queen,B,0,4,6,7,Chesster.Pawn
+Chesster.Queen,W,4,7,6,7,Chesster.Pawn
+Chesster.Pawn,B,1,5,6,7,Chesster.Pawn
+Chesster.Queen,W,3,6,6,7,Chesster.Pawn
+Chesster.King,B,0,3,6,7,Chesster.Pawn
+Chesster.Queen,W,1,4,6,7,Chesster.Pawn
+Chesster.Bishop,B,0,5,6,7,Chesster.Pawn
+Chesster.Pawn,W,6,3,6,7,Chesster.Pawn
+Chesster.Bishop,B,4,1,6,7,Chesster.Pawn
+Chesster.Knight,W,7,1,6,7,Chesster.Pawn
+Chesster.Knight,B,0,6,6,7,Chesster.Pawn
+Chesster.King,W,7,3,6,7,Chesster.Pawn
+Chesster.Knight,B,2,5,6,7,Chesster.Pawn
+Chesster.Knight,W,5,2,6,7,Chesster.Pawn

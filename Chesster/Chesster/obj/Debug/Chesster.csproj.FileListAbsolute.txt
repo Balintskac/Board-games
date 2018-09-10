@@ -1,0 +1,12 @@
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\bin\Debug\Chesster.exe.config
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\bin\Debug\Chesster.exe
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\bin\Debug\Chesster.pdb
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\obj\Debug\Chesster.csprojResolveAssemblyReference.cache
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\obj\Debug\Chesster.Form1.resources
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\obj\Debug\Chesster.Properties.Resources.resources
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\obj\Debug\Chesster.csproj.GenerateResource.Cache
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\obj\Debug\Chesster.csproj.CoreCompileInputs.cache
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\obj\Debug\Chesster.exe
+c:\users\rápolthy bálint\source\repos\Chesster\Chesster\obj\Debug\Chesster.pdb
+C:\Users\Rápolthy Bálint\source\repos\Chesster\Chesster\obj\Debug\Chesster.Fileload.resources
+C:\Users\Rápolthy Bálint\source\repos\Chesster\Chesster\obj\Debug\Chesster.menu.resources
